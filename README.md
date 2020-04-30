@@ -43,3 +43,9 @@ Functions written in a special way, they always return something.
 - strict equality  &nbsp;  === &nbsp; &nbsp; !==
 - Logical Operators &nbsp; &nbsp;|| &nbsp; &nbsp; && &nbsp; &nbsp; !
 
+### Precedence
+() <br>
+ -&nbsp;&nbsp; +&nbsp;&nbsp;*&nbsp;&nbsp;/&nbsp;&nbsp; % <br>
+ > &nbsp;&nbsp;  < &nbsp;&nbsp; <= &nbsp;&nbsp;>= <br>
+ || &nbsp; &nbsp; && &nbsp; &nbsp; ! <br>
+ = 
