@@ -16,9 +16,9 @@
 - null<br>  
 
 🔆 These are <strong>Primitive</strong>. They are the only data types that are not objects in Javascript.<br>
-- Dynamic Typing - we don't have to define the datatype of a variable when declaring it<br>
-- Mutation - the important concept of variables is that we can change/mutate its value<br>
-- Coercion - JS converts the variable data type as needed<br>
+✔️ Dynamic Typing - we don't have to define the datatype of a variable when declaring it<br>
+✔️ Mutation - the important concept of variables is that we can change/mutate its value<br>
+✔️ Coercion - JS converts the variable data type as needed<br>
 
 ```javascript
 const number = 1  // we can't mutate a const, js will throw an error
