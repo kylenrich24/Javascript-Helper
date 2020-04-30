@@ -44,8 +44,11 @@ Functions written in a special way, they always return something.
 - Logical Operators &nbsp; &nbsp;|| &nbsp; &nbsp; && &nbsp; &nbsp; !
 
 ### Precedence
-() <br>
- -&nbsp;&nbsp; +&nbsp;&nbsp;*&nbsp;&nbsp;/&nbsp;&nbsp; % <br>
- > &nbsp;&nbsp;  < &nbsp;&nbsp; <= &nbsp;&nbsp;>= <br>
- || &nbsp; &nbsp; && &nbsp; &nbsp; ! <br>
- = 
+
+``` javascript
+() 
+-, +
+>, <
+||, &&
+=
+```
