@@ -23,7 +23,7 @@
 ```javascript
 const number = 1  // we can't mutate a const, js will throw an error
 
-// const and let are block scoped (i.e {}, if, for, while
+// const and let are block scoped (i.e {}, if, for, while)
 // const and let are not hoisted
 {
  const secret = "no access"
@@ -32,3 +32,13 @@ const number = 1  // we can't mutate a const, js will throw an error
 
 // we can't access secret and anotherSecret here
 ```
+
+## ❗ Operators
+
+Functions written in a special way, they always return something.
+- -, +, *, /, %   Math Operators
+- >, <, <=, >=
+- = assignment
+- == type coercion - data type doesn't have to match
+- === strict equality 
+
