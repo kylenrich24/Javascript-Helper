@@ -36,8 +36,8 @@ const number = 1  // we can't mutate a const, js will throw an error
 ## ❗ Operators
 
 Functions written in a special way, they always return something.
-- Math Operators   &nbsp;&nbsp; -, +, *, /, %
-- Logical Operators &nbsp; &nbsp; >, <, >, <=, >= 
+- Math Operators   &nbsp;&nbsp; -&nbsp;&nbsp; +&nbsp;&nbsp;*&nbsp;&nbsp;/&nbsp;&nbsp; %
+- Logical Operators &nbsp; &nbsp; > &nbsp;&nbsp;  < &nbsp;&nbsp; <= &nbsp;&nbsp;>= 
 - assignment &nbsp; &nbsp;=
 - type coercion &nbsp; &nbsp; ==
 - strict equality  &nbsp;  ===
