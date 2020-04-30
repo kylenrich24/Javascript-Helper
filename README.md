@@ -32,6 +32,8 @@ const number = 1  // we can't mutate a const, js will throw an error
 
 // we can't access secret and anotherSecret here
 ```
+<br>
+<br> 
 
 ## ❗ Operators
 
