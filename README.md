@@ -9,5 +9,11 @@
 
 ## Variables
 
-### Data Types
-- ❗number (always floating), ❗string, ❗boolean, ❗undefined, ❗null  ⬅️ this are <strong>Primitive</strong> the only non-objects in JS 
+### 🔔 Data Types
+- ❗ number (always floating)
+- ❗ string
+- ❗ boolean
+- ❗ undefined
+- ❗ null  
+
+🔆 These are <strong>Primitive</strong>. They are the only data types that are not objects in Javascript.
