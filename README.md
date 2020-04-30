@@ -5,15 +5,14 @@
 ✔️ object-oriented - based on object type of programming<br>
 
 <br>
-<br>
 
 ## Variables
 
 ### 🔔 Data Types
-- ❗ number (always floating)
-- ❗ string
-- ❗ boolean
-- ❗ undefined
-- ❗ null  
+ ❗ number (always floating)
+ ❗ string
+ ❗ boolean
+ ❗ undefined
+ ❗ null  
 
 🔆 These are <strong>Primitive</strong>. They are the only data types that are not objects in Javascript.
